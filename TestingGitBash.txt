@@ -2,3 +2,6 @@ Testing Git Bash.
 
 Commited version 1.
 Updated the file.
+
+Commited version 2.
+Updated the file.
